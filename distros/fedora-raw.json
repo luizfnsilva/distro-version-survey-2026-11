@@ -1,0 +1,182 @@
+[
+ {
+  "repo": "tox-dev/sphinx-argparse-cli",
+  "dist_version": "1.21.3",
+  "tag": "1.21.3",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-sphinx-argparse-cli.spec",
+  "src": "sed"
+ },
+ {
+  "repo": "hardbyte/python-can",
+  "dist_version": "4.6.1",
+  "tag": "v4.6.1",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-can.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "banesullivan/scooby",
+  "dist_version": "0.12.1",
+  "tag": "v0.12.1",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-scooby.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "nexB/packvers",
+  "dist_version": "21.5",
+  "tag": "21.5",
+  "file": "pyproject.toml",
+  "cls": "nao deu",
+  "spec": "python-packvers.spec",
+  "src": "sed"
+ },
+ {
+  "repo": "ESSS/pytest-regressions",
+  "dist_version": "2.11.0",
+  "tag": "v2.11.0",
+  "file": "setup.py",
+  "cls": "sem versao estatica",
+  "spec": "python-pytest-regressions.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "alexmojaki/executing",
+  "dist_version": "2.2.1",
+  "tag": "v2.2.1",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-executing.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "python-quantities/python-quantities",
+  "dist_version": "0.16.4",
+  "tag": "v0.16.4",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-quantities.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "tox-dev/python-discovery",
+  "dist_version": "1.9.4",
+  "tag": "1.9.4",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-discovery.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "naiquevin/pipdeptree",
+  "dist_version": "3.1.1",
+  "tag": "3.1.1",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-pipdeptree.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "ApeWorX/eth-tester",
+  "dist_version": "0.14.0",
+  "cls": "nao deu",
+  "spec": "python-eth-tester.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "conda/conda-index",
+  "dist_version": "0.13.0",
+  "tag": "0.13.0",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-conda-index.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "huggingface/huggingface_hub",
+  "dist_version": "2.3.0",
+  "tag": "v2.3.0",
+  "file": "pyproject.toml",
+  "cls": "nao deu",
+  "spec": "python-huggingface-hub.spec",
+  "src": "sed"
+ },
+ {
+  "repo": "pytest-dev/pytest-repeat",
+  "dist_version": "0.9.3",
+  "tag": "v0.9.3",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-pytest-repeat.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "sergey-dryabzhinsky/python-zstd",
+  "dist_version": "1.5.7.3",
+  "tag": "v1.5.7.3",
+  "file": "setup.py",
+  "declared": "PKG_VERSION_STR",
+  "cls": "diverge?",
+  "spec": "python-zstd.spec",
+  "src": "sed"
+ },
+ {
+  "repo": "pycontribs/jira",
+  "dist_version": "3.10.5",
+  "tag": "3.10.5",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-jira.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "pytest-dev/pytest-github-actions-annotate-failures",
+  "dist_version": "0.4.2",
+  "tag": "v0.4.2",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-pytest-github-actions-annotate-failures.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "aboutcode-org/extractcode",
+  "dist_version": "31.0.0",
+  "tag": "v31.0.0",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-extractcode.spec",
+  "src": "sed"
+ },
+ {
+  "repo": "pytest-dev/iniconfig",
+  "dist_version": "2.3.0",
+  "tag": "v2.3.0",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-iniconfig.spec",
+  "src": "pretend"
+ },
+ {
+  "repo": "ReactiveX/RxPY",
+  "dist_version": "6.1.0",
+  "tag": "v6.1.0",
+  "file": "pyproject.toml",
+  "declared": "6.1.0",
+  "cls": "confere",
+  "spec": "python-rx.spec",
+  "src": "sed"
+ },
+ {
+  "repo": "Guts/mkdocs-rss-plugin",
+  "dist_version": "1.17.7",
+  "tag": "1.17.7",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "spec": "python-mkdocs-rss-plugin.spec",
+  "src": "sed"
+ }
+]

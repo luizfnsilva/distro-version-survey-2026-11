@@ -1,0 +1,338 @@
+[
+ {
+  "pkg": "assimp",
+  "deb": "6.0.5+ds-1",
+  "patch": "pyassimp.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/a/assimp/6.0.5+ds-1/port/PyAssimp/setup.py",
+  "patch_lines": [
+   "-      version='5.2.5',",
+   "+      version='6.0.2',"
+  ],
+  "upstream_lines": [
+   [
+    11,
+    "version='6.0.2',"
+   ]
+  ]
+ },
+ {
+  "pkg": "caio",
+  "deb": "0.12.4-1",
+  "patch": "version.patch",
+  "file": "pyproject.toml",
+  "url": "https://sources.debian.org/data/main/c/caio/0.12.4-1/pyproject.toml",
+  "patch_lines": [
+   "-version = \"0.10.2\"",
+   "+version = \"0.12.4\""
+  ],
+  "upstream_lines": [
+   [
+    7,
+    "version = \"0.12.4\""
+   ]
+  ]
+ },
+ {
+  "pkg": "comitup",
+  "deb": "1.47.1-2",
+  "patch": "mainver.patch",
+  "file": "pyproject.toml",
+  "url": "https://sources.debian.org/data/main/c/comitup/1.47.1-2/pyproject.toml",
+  "patch_lines": [
+   "-version = \"1.47\"",
+   "+version = \"1.47.1\""
+  ],
+  "upstream_lines": [
+   [
+    7,
+    "version = \"1.47.1\""
+   ]
+  ]
+ },
+ {
+  "pkg": "cpuset",
+  "deb": "1.6.2-3",
+  "patch": "02_pep517_build_and_manifest.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/c/cpuset/1.6.2-3/setup.py",
+  "patch_lines": [
+   "-    version = version,",
+   "+    version=VERSION,"
+  ],
+  "upstream_lines": [
+   [
+    9,
+    "version=VERSION,"
+   ]
+  ]
+ },
+ {
+  "pkg": "cwiid",
+  "deb": "0.6.91-12",
+  "patch": "python-setup.py.patch",
+  "file": "setup.py",
+  "url": null,
+  "patch_lines": [
+   "+version = out.decode(\"utf-8\").strip()",
+   "+version = m.group(1)",
+   "-\tversion='0.6.00',"
+  ],
+  "upstream_lines": []
+ },
+ {
+  "pkg": "cwiid",
+  "deb": "0.6.91-12",
+  "patch": "python3-build-azzra",
+  "file": "setup.py",
+  "url": null,
+  "patch_lines": [
+   "-version = out.decode(\"utf-8\").strip()",
+   "-version = m.group(1)",
+   "-\tversion=version,"
+  ],
+  "upstream_lines": []
+ },
+ {
+  "pkg": "django-ldapdb",
+  "deb": "2.0.0-2",
+  "patch": "setup.cfg-Adjust-the-version.patch",
+  "file": "setup.cfg",
+  "url": "https://sources.debian.org/data/main/d/django-ldapdb/2.0.0-2/setup.cfg",
+  "patch_lines": [
+   "-version = 1.5.2.dev0",
+   "+version = 2.0.0"
+  ],
+  "upstream_lines": [
+   [
+    3,
+    "version = 2.0.0"
+   ]
+  ]
+ },
+ {
+  "pkg": "drslib",
+  "deb": "0.3.2-3",
+  "patch": "version.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/d/drslib/0.3.2-3/setup.py",
+  "patch_lines": [
+   "-version = '0.3.1p3'",
+   "+version = '0.3.2'"
+  ],
+  "upstream_lines": [
+   [
+    11,
+    "version = '0.3.2'"
+   ],
+   [
+    15,
+    "version=version,"
+   ]
+  ]
+ },
+ {
+  "pkg": "expeyes",
+  "deb": "5.3.5+repack-1",
+  "patch": "setup.py.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/e/expeyes/5.3.5+repack-1/setup.py",
+  "patch_lines": [
+   "+      version='1.0.0',",
+   "-       version='1.0.0',"
+  ],
+  "upstream_lines": [
+   [
+    6,
+    "version='1.0.0',"
+   ]
+  ]
+ },
+ {
+  "pkg": "lookatme",
+  "deb": "2.5.4-3",
+  "patch": "version.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/l/lookatme/2.5.4-3/setup.py",
+  "patch_lines": [
+   "-    version=\"{{VERSION}}\",",
+   "+    version=\"2.5.4\","
+  ],
+  "upstream_lines": [
+   [
+    22,
+    "version=\"2.5.4\","
+   ]
+  ]
+ },
+ {
+  "pkg": "phat",
+  "deb": "1.7-2",
+  "patch": "0001-Correct-version-number.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/phat/1.7-2/setup.py",
+  "patch_lines": [
+   "-    version='1.6.0.post2',",
+   "+    version='1.7',"
+  ],
+  "upstream_lines": [
+   [
+    54,
+    "version='1.7',"
+   ]
+  ]
+ },
+ {
+  "pkg": "px",
+  "deb": "3.6.12-2.1",
+  "patch": "000-avoid-version-gen.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/px/3.6.12-2.1/setup.py",
+  "patch_lines": [
+   "-        version=version_for_setuptools,",
+   "+        version=\"3.6.12\","
+  ],
+  "upstream_lines": [
+   [
+    21,
+    "version=\"3.6.12\","
+   ]
+  ]
+ },
+ {
+  "pkg": "pydocstyle",
+  "deb": "6.3.0-3",
+  "patch": "Fix-version-number.patch",
+  "file": "pyproject.toml",
+  "url": "https://sources.debian.org/data/main/p/pydocstyle/6.3.0-3/pyproject.toml",
+  "patch_lines": [
+   "-version = \"0.0.0-dev\"",
+   "+version = \"6.3.0\""
+  ],
+  "upstream_lines": [
+   [
+    3,
+    "version = \"6.3.0\""
+   ]
+  ]
+ },
+ {
+  "pkg": "pyjdata",
+  "deb": "0.4.1-1",
+  "patch": "bump-version-to-0.3.6.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/pyjdata/0.4.1-1/setup.py",
+  "patch_lines": [
+   "-  version = '0.4.0',",
+   "+  version = '0.4.1',"
+  ],
+  "upstream_lines": [
+   [
+    9,
+    "version = '0.4.1',"
+   ]
+  ]
+ },
+ {
+  "pkg": "python-alpha-vantage",
+  "deb": "3.0.0-1",
+  "patch": "dgit-changes",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/python-alpha-vantage/3.0.0-1/setup.py",
+  "patch_lines": [
+   "-    version='2.3.1',",
+   "+    version='3.0.0',"
+  ],
+  "upstream_lines": [
+   [
+    28,
+    "version='3.0.0',"
+   ]
+  ]
+ },
+ {
+  "pkg": "python-apricot-select",
+  "deb": "0.6.1-1",
+  "patch": "0004-bump-python-version-in-CI-46.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/python-apricot-select/0.6.1-1/setup.py",
+  "patch_lines": [
+   "-    version='0.6.1',",
+   "+    version=\"0.6.1\","
+  ],
+  "upstream_lines": [
+   [
+    5,
+    "version=\"0.6.1\","
+   ]
+  ]
+ },
+ {
+  "pkg": "python-batinfo",
+  "deb": "2.0-1",
+  "patch": "dgit-changes",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/python-batinfo/2.0-1/setup.py",
+  "patch_lines": [
+   "-    version='0.2',",
+   "+    version='0.4.2',"
+  ],
+  "upstream_lines": [
+   [
+    19,
+    "version='0.4.2',"
+   ]
+  ]
+ },
+ {
+  "pkg": "python-cross-web",
+  "deb": "0.7.0-2",
+  "patch": "pyproject.toml-Correct-the-version-number.patch",
+  "file": "pyproject.toml",
+  "url": "https://sources.debian.org/data/main/p/python-cross-web/0.7.0-2/pyproject.toml",
+  "patch_lines": [
+   "-version = \"0.6.0\"",
+   "+version = \"0.7.0\""
+  ],
+  "upstream_lines": [
+   [
+    3,
+    "version = \"0.7.0\""
+   ]
+  ]
+ },
+ {
+  "pkg": "python-gnuplot",
+  "deb": "1.8-9",
+  "patch": "00-remove-version-import.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/python-gnuplot/1.8-9/setup.py",
+  "patch_lines": [
+   "-    version=__version__,",
+   "+    version='1.8',"
+  ],
+  "upstream_lines": [
+   [
+    22,
+    "version='1.8',"
+   ]
+  ]
+ },
+ {
+  "pkg": "python-magic",
+  "deb": "2:0.4.27-6",
+  "patch": "0.4.27-40-g5a89644.add-support-for-python-3-13.patch",
+  "file": "setup.py",
+  "url": "https://sources.debian.org/data/main/p/python-magic/2:0.4.27-6/setup.py",
+  "patch_lines": [
+   "-    version='0.4.28',",
+   "+    version=\"0.4.28\","
+  ],
+  "upstream_lines": [
+   [
+    23,
+    "version=\"0.4.28\","
+   ]
+  ]
+ }
+]

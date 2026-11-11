@@ -1,0 +1,9 @@
+./dev-python/sure/sure-2.0.1-r1.ebuild
+./dev-python/pyamg/pyamg-5.3.0-r1.ebuild
+./dev-python/gpgmepy/gpgmepy-2.0.0-r1.ebuild
+./dev-python/gpgmepy/gpgmepy-2.0.0-r2.ebuild
+./app-text/pdfminer/pdfminer-20240706.ebuild
+./x11-misc/sunflower/sunflower-0.5-r3.ebuild
+./app-emulation/cloud-init/cloud-init-9999.ebuild
+./app-emulation/cloud-init/cloud-init-25.1.ebuild
+./app-emulation/cloud-init/cloud-init-24.4-r4.ebuild

@@ -1,0 +1,1827 @@
+[
+{
+"file": "adql_2.0~beta+ds-5/debian/patches/Fix-beta-version-number-in-build.gradle.patch",
+"url": "https://sources.debian.org/data/main/a/adql/2.0~beta+ds-5/debian/patches/Fix-beta-version-number-in-build.gradle.patch",
+"len": 824,
+"hits": []
+},
+{
+"file": "amberol_2026.1-1/debian/patches/build-with-gtk-rs-0.11.patch",
+"url": "https://sources.debian.org/data/main/a/amberol/2026.1-1/debian/patches/build-with-gtk-rs-0.11.patch",
+"len": 3602,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.8\"",
+"+version = \"0.9\"",
+"-version = \"0.24\"",
+"+version = \"0.25\""
+]
+]
+]
+},
+{
+"file": "android-platform-tools-apksig_35.0.2-1/debian/patches/fix-apksig.jar-build.patch",
+"url": "https://sources.debian.org/data/main/a/android-platform-tools-apksig/35.0.2-1/debian/patches/fix-apksig.jar-build.patch",
+"len": 1030,
+"hits": []
+},
+{
+"file": "arc-theme_20221218-3/debian/patches/0001-Labwc-folder.patch",
+"url": "https://sources.debian.org/data/main/a/arc-theme/20221218-3/debian/patches/0001-Labwc-folder.patch",
+"len": 241002,
+"hits": []
+},
+{
+"file": "assimp_6.0.5+ds-1/debian/patches/pyassimp.patch",
+"url": "https://sources.debian.org/data/main/a/assimp/6.0.5+ds-1/debian/patches/pyassimp.patch",
+"len": 7931,
+"hits": [
+[
+"b/port/PyAssimp/setup.py",
+[
+"-      version='5.2.5',",
+"+      version='6.0.2',"
+]
+]
+]
+},
+{
+"file": "bazel-aspect-bazel-lib_2.22.5-2/debian/patches/0001-debian-offline-and-self-contained.patch",
+"url": "https://sources.debian.org/data/main/b/bazel-aspect-bazel-lib/2.22.5-2/debian/patches/0001-debian-offline-and-self-contained.patch",
+"len": 3324,
+"hits": []
+},
+{
+"file": "bazel-lib_3.7.2-2/debian/patches/0001-debian-offline-toolchains.patch",
+"url": "https://sources.debian.org/data/main/b/bazel-lib/3.7.2-2/debian/patches/0001-debian-offline-toolchains.patch",
+"len": 8896,
+"hits": []
+},
+{
+"file": "bazel-rules-java_7.6.5-8/debian/patches/0001_add-loongarch64-support.patch",
+"url": "https://sources.debian.org/data/main/b/bazel-rules-java/7.6.5-8/debian/patches/0001_add-loongarch64-support.patch",
+"len": 10775,
+"hits": []
+},
+{
+"file": "caio_0.12.4-1/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/c/caio/0.12.4-1/debian/patches/version.patch",
+"len": 498,
+"hits": [
+[
+"caio/pyproject.toml",
+[
+"-version = \"0.10.2\"",
+"+version = \"0.12.4\""
+]
+]
+]
+},
+{
+"file": "cameractrl_1.0-2/debian/patches/Fix-version-number.patch",
+"url": "https://sources.debian.org/data/main/c/cameractrl/1.0-2/debian/patches/Fix-version-number.patch",
+"len": 1204,
+"hits": []
+},
+{
+"file": "castor_1.3.2-7/debian/patches/remove-google-analytics.diff",
+"url": "https://sources.debian.org/data/main/c/castor/1.3.2-7/debian/patches/remove-google-analytics.diff",
+"len": 28355,
+"hits": []
+},
+{
+"file": "cclib_1.8.1-3/debian/patches/revert_versioningit_unPR1373.patch",
+"url": "https://sources.debian.org/data/main/c/cclib/1.8.1-3/debian/patches/revert_versioningit_unPR1373.patch",
+"len": 6394,
+"hits": [
+[
+"cclib/pyproject.toml",
+[
+"+version = \"1.8.1\""
+]
+]
+]
+},
+{
+"file": "cdftools_4.0.0-4/debian/patches/fpm.patch",
+"url": "https://sources.debian.org/data/main/c/cdftools/4.0.0-4/debian/patches/fpm.patch",
+"len": 12166,
+"hits": []
+},
+{
+"file": "cecilia_5.4.1+4bf519e-1/debian/patches/setup.patch",
+"url": "https://sources.debian.org/data/main/c/cecilia/5.4.1+4bf519e-1/debian/patches/setup.patch",
+"len": 8317,
+"hits": [
+[
+"b/setup.py",
+[
+"+        version = \"5.3.5\","
+]
+]
+]
+},
+{
+"file": "click_0.5.2-13/debian/patches/1001_fully-adjust-DEFAULT_ROOT-if-set-via-configure-option.patch",
+"url": "https://sources.debian.org/data/main/c/click/0.5.2-13/debian/patches/1001_fully-adjust-DEFAULT_ROOT-if-set-via-configure-option.patch",
+"len": 166185,
+"hits": []
+},
+{
+"file": "cloudpickle_3.1.2-2/debian/patches/flit_4.patch",
+"url": "https://sources.debian.org/data/main/c/cloudpickle/3.1.2-2/debian/patches/flit_4.patch",
+"len": 890,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"3.1.2\""
+]
+]
+]
+},
+{
+"file": "comitup_1.47.1-2/debian/patches/mainver.patch",
+"url": "https://sources.debian.org/data/main/c/comitup/1.47.1-2/debian/patches/mainver.patch",
+"len": 202,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"1.47\"",
+"+version = \"1.47.1\""
+]
+]
+]
+},
+{
+"file": "corrosion_0.6.1-3/debian/patches/relax-deps.patch",
+"url": "https://sources.debian.org/data/main/c/corrosion/0.6.1-3/debian/patches/relax-deps.patch",
+"len": 1220,
+"hits": []
+},
+{
+"file": "cpuset_1.6.2-3/debian/patches/02_pep517_build_and_manifest.patch",
+"url": "https://sources.debian.org/data/main/c/cpuset/1.6.2-3/debian/patches/02_pep517_build_and_manifest.patch",
+"len": 5754,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version = version,",
+"+    version=VERSION,"
+]
+]
+]
+},
+{
+"file": "cura_5.0.0-7/debian/patches/0006-delete-quality-profile-that-fails-test.patch",
+"url": "https://sources.debian.org/data/main/c/cura/5.0.0-7/debian/patches/0006-delete-quality-profile-that-fails-test.patch",
+"len": 1114,
+"hits": []
+},
+{
+"file": "cwiid_0.6.91-12/debian/patches/python-setup.py.patch",
+"url": "https://sources.debian.org/data/main/c/cwiid/0.6.91-12/debian/patches/python-setup.py.patch",
+"len": 731,
+"hits": [
+[
+"cwiid/python/setup.py",
+[
+"+version = out.decode(\"utf-8\").strip()",
+"+version = m.group(1)",
+"-\tversion='0.6.00',",
+"+\tversion=version,"
+]
+]
+]
+},
+{
+"file": "cwiid_0.6.91-12/debian/patches/python3-build-azzra",
+"url": "https://sources.debian.org/data/main/c/cwiid/0.6.91-12/debian/patches/python3-build-azzra",
+"len": 57535,
+"hits": [
+[
+"cwiid/python/setup.py",
+[
+"-version = out.decode(\"utf-8\").strip()",
+"-version = m.group(1)",
+"-\tversion=version,",
+"+    version='3.0.0',"
+]
+]
+]
+},
+{
+"file": "deluge_2.2.1~dev0+20260307-2/debian/patches/upstream/0002-feat-pluginmanager-new-plugin-finder-using-stdlib-wi.patch",
+"url": "https://sources.debian.org/data/main/d/deluge/2.2.1~dev0+20260307-2/debian/patches/upstream/0002-feat-pluginmanager-new-plugin-finder-using-stdlib-wi.patch",
+"len": 31386,
+"hits": []
+},
+{
+"file": "dico_2.12-5/debian/patches/dicoclient_pyproject.patch",
+"url": "https://sources.debian.org/data/main/d/dico/2.12-5/debian/patches/dicoclient_pyproject.patch",
+"len": 941,
+"hits": [
+[
+"b/dicoweb/dicoclient/pyproject.toml",
+[
+"+version = \"1.0\""
+]
+]
+]
+},
+{
+"file": "django-axes_5.39.0-9/debian/patches/0003-remove-dependency-on-pkg-resources.patch",
+"url": "https://sources.debian.org/data/main/d/django-axes/5.39.0-9/debian/patches/0003-remove-dependency-on-pkg-resources.patch",
+"len": 2389,
+"hits": [
+[
+"b/setup.py",
+[
+"+    version=\"5.39.0\","
+]
+]
+]
+},
+{
+"file": "django-ldapdb_2.0.0-2/debian/patches/setup.cfg-Adjust-the-version.patch",
+"url": "https://sources.debian.org/data/main/d/django-ldapdb/2.0.0-2/debian/patches/setup.cfg-Adjust-the-version.patch",
+"len": 513,
+"hits": [
+[
+"b/setup.cfg",
+[
+"-version = 1.5.2.dev0",
+"+version = 2.0.0"
+]
+]
+]
+},
+{
+"file": "docbook-xsl_1.79.2+dfsg-8/debian/patches/681116_multiarch_manpage_template.patch",
+"url": "https://sources.debian.org/data/main/d/docbook-xsl/1.79.2+dfsg-8/debian/patches/681116_multiarch_manpage_template.patch",
+"len": 2474,
+"hits": []
+},
+{
+"file": "dozzaqueux_3.51-5/debian/patches/40-desktopfiles.patch",
+"url": "https://sources.debian.org/data/main/d/dozzaqueux/3.51-5/debian/patches/40-desktopfiles.patch",
+"len": 6457,
+"hits": []
+},
+{
+"file": "drslib_0.3.2-3/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/d/drslib/0.3.2-3/debian/patches/version.patch",
+"len": 351,
+"hits": [
+[
+"b/setup.py",
+[
+"-version = '0.3.1p3'",
+"+version = '0.3.2'"
+]
+]
+]
+},
+{
+"file": "dua-cli_2.34.0-3/debian/patches/gix-0.89.patch",
+"url": "https://sources.debian.org/data/main/d/dua-cli/2.34.0-3/debian/patches/gix-0.89.patch",
+"len": 2040,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.27\"",
+"+version = \"0.29\"",
+"-version = \"0.12.0\"",
+"+version = \"0.14.0\""
+]
+]
+]
+},
+{
+"file": "easybind_1.0.3-3/debian/patches/01_build_gradle.patch",
+"url": "https://sources.debian.org/data/main/e/easybind/1.0.3-3/debian/patches/01_build_gradle.patch",
+"len": 567,
+"hits": []
+},
+{
+"file": "elan_4.1.2-3.2/debian/patches/remove-markdown.patch",
+"url": "https://sources.debian.org/data/main/e/elan/4.1.2-3.2/debian/patches/remove-markdown.patch",
+"len": 9148,
+"hits": []
+},
+{
+"file": "enjarify_1:1.0.3-5/debian/patches/setup_py.patch",
+"url": "https://sources.debian.org/data/main/e/enjarify/1:1.0.3-5/debian/patches/setup_py.patch",
+"len": 476,
+"hits": [
+[
+"enjarify/setup.py",
+[
+"+      version='1.0.3',"
+]
+]
+]
+},
+{
+"file": "expeyes_5.3.5+repack-1/debian/patches/setup.py.patch",
+"url": "https://sources.debian.org/data/main/e/expeyes/5.3.5+repack-1/debian/patches/setup.py.patch",
+"len": 1641,
+"hits": [
+[
+"b/setup.py",
+[
+"+      version='1.0.0',",
+"-       version='1.0.0',"
+]
+]
+]
+},
+{
+"file": "falkon_26.08.2-1/debian/patches/add-source-minified-js.patch",
+"url": "https://sources.debian.org/data/main/f/falkon/26.08.2-1/debian/patches/add-source-minified-js.patch",
+"len": 844838,
+"hits": []
+},
+{
+"file": "fastchunking_0.0.3-5/debian/patches/Fix-documentation-build.patch",
+"url": "https://sources.debian.org/data/main/f/fastchunking/0.0.3-5/debian/patches/Fix-documentation-build.patch",
+"len": 1850,
+"hits": []
+},
+{
+"file": "flufl.bounce_5.0.1-1/debian/patches/sphinx.patch",
+"url": "https://sources.debian.org/data/main/f/flufl.bounce/5.0.1-1/debian/patches/sphinx.patch",
+"len": 252,
+"hits": []
+},
+{
+"file": "fontship_0.10.1+ds-4/debian/patches/debianization.patch",
+"url": "https://sources.debian.org/data/main/f/fontship/0.10.1+ds-4/debian/patches/debianization.patch",
+"len": 3684,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.20\"",
+"+version = \">= 0.20\"",
+"-version = \"0.8\"",
+"-version = \"0.2\""
+]
+]
+]
+},
+{
+"file": "forgejo-cli_0.3.0-9/debian/patches/debian/0001-cargo.patch",
+"url": "https://sources.debian.org/data/main/f/forgejo-cli/0.3.0-9/debian/patches/debian/0001-cargo.patch",
+"len": 2161,
+"hits": [
+[
+"forgejo-cli/Cargo.toml",
+[
+"-version = \"1.7.3\"",
+"+version = \"1.6\"",
+"-version = \"4.5.34\"",
+"+version = \"4.5\""
+]
+]
+]
+},
+{
+"file": "fragments_3.0.1-16/debian/patches/gtkrs-0.9.patch",
+"url": "https://sources.debian.org/data/main/f/fragments/3.0.1-16/debian/patches/gtkrs-0.9.patch",
+"len": 4536,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.1.5\"",
+"+version = \"0.1.6\""
+]
+]
+]
+},
+{
+"file": "garmin-forerunner-tools_0.10repacked-16/debian/patches/python_dir_from_upstream.patch",
+"url": "https://sources.debian.org/data/main/g/garmin-forerunner-tools/0.10repacked-16/debian/patches/python_dir_from_upstream.patch",
+"len": 22656,
+"hits": [
+[
+"garmin-forerunner-tools-0.10repacked/python/setup.py",
+[
+"+       version = '0.1',"
+]
+]
+]
+},
+{
+"file": "git-graph_0.8.3-1/debian/patches/debian/0001-cargo.patch",
+"url": "https://sources.debian.org/data/main/g/git-graph/0.8.3-1/debian/patches/debian/0001-cargo.patch",
+"len": 574,
+"hits": [
+[
+"git-graph/Cargo.toml",
+[
+"-version = \"0.18\"",
+"+version = \">= 0.16\"",
+"-version = \"0.9\"",
+"+version = \">= 0.9\""
+]
+]
+]
+},
+{
+"file": "gprolog_1.5.0-0.1/debian/patches/motif-svg",
+"url": "https://sources.debian.org/data/main/g/gprolog/1.5.0-0.1/debian/patches/motif-svg",
+"len": 2104,
+"hits": []
+},
+{
+"file": "gradle-apt-plugin_0.10-1.1/debian/patches/0001-Make-sources-buildable-on-debian.patch",
+"url": "https://sources.debian.org/data/main/g/gradle-apt-plugin/0.10-1.1/debian/patches/0001-Make-sources-buildable-on-debian.patch",
+"len": 2253,
+"hits": []
+},
+{
+"file": "haproxy_3.2.26-1/debian/patches/debianize-dconv.patch",
+"url": "https://sources.debian.org/data/main/h/haproxy/3.2.26-1/debian/patches/debianize-dconv.patch",
+"len": 4242,
+"hits": []
+},
+{
+"file": "hiera_3.12.0-1/debian/patches/0002-Rename-gemspec-file.patch",
+"url": "https://sources.debian.org/data/main/h/hiera/3.12.0-1/debian/patches/0002-Rename-gemspec-file.patch",
+"len": 2860,
+"hits": []
+},
+{
+"file": "hovercraft_2.7-12/debian/patches/0002-fix-some-things-in-the-docs.patch",
+"url": "https://sources.debian.org/data/main/h/hovercraft/2.7-12/debian/patches/0002-fix-some-things-in-the-docs.patch",
+"len": 2063,
+"hits": []
+},
+{
+"file": "hugo_0.169.0-2/debian/patches/0002-skip-tests-that-access-the-internet.patch",
+"url": "https://sources.debian.org/data/main/h/hugo/0.169.0-2/debian/patches/0002-skip-tests-that-access-the-internet.patch",
+"len": 37701,
+"hits": []
+},
+{
+"file": "icann-rdap-cli_1.0.1-1/debian/patches/debian/0001-cargo.patch",
+"url": "https://sources.debian.org/data/main/i/icann-rdap-cli/1.0.1-1/debian/patches/debian/0001-cargo.patch",
+"len": 743,
+"hits": [
+[
+"icann-rdap-cli/Cargo.toml",
+[
+"-version = \"0.35\"",
+"+version = \">= 0.34\""
+]
+]
+]
+},
+{
+"file": "icann-rdap-srv_1.0.1-1/debian/patches/debian/0001-cargo.patch",
+"url": "https://sources.debian.org/data/main/i/icann-rdap-srv/1.0.1-1/debian/patches/debian/0001-cargo.patch",
+"len": 726,
+"hits": [
+[
+"icann-rdap-srv/Cargo.toml",
+[
+"-version = \"0.7\"",
+"+version = \">= 0.6\""
+]
+]
+]
+},
+{
+"file": "ilorest_7.0.0.0-1/debian/patches/add-setup.py.patch",
+"url": "https://sources.debian.org/data/main/i/ilorest/7.0.0.0-1/debian/patches/add-setup.py.patch",
+"len": 3671,
+"hits": [
+[
+"b/setup.py",
+[
+"-      version='6.2.0.0',"
+]
+]
+]
+},
+{
+"file": "inputplug_0.4.0-5/debian/patches/0001-Compatibility-with-x11rb-0.13.patch",
+"url": "https://sources.debian.org/data/main/i/inputplug/0.4.0-5/debian/patches/0001-Compatibility-with-x11rb-0.13.patch",
+"len": 1241,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.8\"",
+"+version = \">= 0.8\""
+]
+]
+]
+},
+{
+"file": "insubstantial_7.3+dfsg3-7/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/i/insubstantial/7.3+dfsg3-7/debian/patches/version.patch",
+"len": 565,
+"hits": []
+},
+{
+"file": "intellij-community-idea_183.5153.4-7/debian/patches/gradle-build-scripts.patch",
+"url": "https://sources.debian.org/data/main/i/intellij-community-idea/183.5153.4-7/debian/patches/gradle-build-scripts.patch",
+"len": 17501,
+"hits": []
+},
+{
+"file": "jcommander_1.71-4/debian/patches/build.gradle.diff",
+"url": "https://sources.debian.org/data/main/j/jcommander/1.71-4/debian/patches/build.gradle.diff",
+"len": 555,
+"hits": []
+},
+{
+"file": "jtreg7_7.5.2+1+ds2-5/debian/patches/picocli-0001-Adjust-build-to-work-without-asciidoctor.patch",
+"url": "https://sources.debian.org/data/main/j/jtreg7/7.5.2+1+ds2-5/debian/patches/picocli-0001-Adjust-build-to-work-without-asciidoctor.patch",
+"len": 13617,
+"hits": []
+},
+{
+"file": "jtreg8_8.3+1+ds1-2/debian/patches/picocli-0001-Adjust-build-to-work-without-asciidoctor.patch",
+"url": "https://sources.debian.org/data/main/j/jtreg8/8.3+1+ds1-2/debian/patches/picocli-0001-Adjust-build-to-work-without-asciidoctor.patch",
+"len": 13617,
+"hits": []
+},
+{
+"file": "junit5_5.14.4-2/debian/patches/12-ignore-asciidoctor-plugin.patch",
+"url": "https://sources.debian.org/data/main/j/junit5/5.14.4-2/debian/patches/12-ignore-asciidoctor-plugin.patch",
+"len": 3614,
+"hits": []
+},
+{
+"file": "kothic_0.0~git20261007.021f0f5-1/debian/patches/0002-Add-pyproject.toml.patch",
+"url": "https://sources.debian.org/data/main/k/kothic/0.0~git20261007.021f0f5-1/debian/patches/0002-Add-pyproject.toml.patch",
+"len": 777,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"0.0.0\""
+]
+]
+]
+},
+{
+"file": "kotlin_1.3.31+ds1-8/debian/patches/041-libraries-kotlinx-metadata-jvm-convert-kts-to-groovy.patch",
+"url": "https://sources.debian.org/data/main/k/kotlin/1.3.31+ds1-8/debian/patches/041-libraries-kotlinx-metadata-jvm-convert-kts-to-groovy.patch",
+"len": 6886,
+"hits": []
+},
+{
+"file": "legacycrypt_0.3-6/debian/patches/flit_4.patch",
+"url": "https://sources.debian.org/data/main/l/legacycrypt/0.3-6/debian/patches/flit_4.patch",
+"len": 929,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"0.3\""
+]
+]
+]
+},
+{
+"file": "libchewing_0.13.1-1/debian/patches/0002-Use-clap_mangen-to-0.3.0.patch",
+"url": "https://sources.debian.org/data/main/libc/libchewing/0.13.1-1/debian/patches/0002-Use-clap_mangen-to-0.3.0.patch",
+"len": 1149,
+"hits": [
+[
+"b/tools/Cargo.toml",
+[
+"-version = \"0.2.12\"",
+"+version = \"0.3.0\""
+]
+]
+]
+},
+{
+"file": "libervia-backend_0.9.0~igit20260421.992d14cb-3/debian/patches/0002-add-sat_tmp.patch",
+"url": "https://sources.debian.org/data/main/libe/libervia-backend/0.9.0~igit20260421.992d14cb-3/debian/patches/0002-add-sat_tmp.patch",
+"len": 319453,
+"hits": [
+[
+"b/sat_tmp/setup.py",
+[
+"+    version='0.9.dev0',"
+]
+]
+]
+},
+{
+"file": "libkdtree++_0.7.5-1/debian/patches/add-setup.py.patch",
+"url": "https://sources.debian.org/data/main/libk/libkdtree++/0.7.5-1/debian/patches/add-setup.py.patch",
+"len": 1876,
+"hits": [
+[
+"b/python-bindings/setup.py",
+[
+"+  version='0.7.1',"
+]
+]
+]
+},
+{
+"file": "libobjcryst_2022.1.4+ds1-2/debian/patches/scons_debian.patch",
+"url": "https://sources.debian.org/data/main/libo/libobjcryst/2022.1.4+ds1-2/debian/patches/scons_debian.patch",
+"len": 7352,
+"hits": []
+},
+{
+"file": "libsmali-java_2.5.2.git2771eae-4/debian/patches/set-version.patch",
+"url": "https://sources.debian.org/data/main/libs/libsmali-java/2.5.2.git2771eae-4/debian/patches/set-version.patch",
+"len": 217,
+"hits": []
+},
+{
+"file": "llvm-toolchain-19_1:19.1.7-22/debian/patches/revert-update-doc.diff",
+"url": "https://sources.debian.org/data/main/l/llvm-toolchain-19/1:19.1.7-22/debian/patches/revert-update-doc.diff",
+"len": 7492,
+"hits": []
+},
+{
+"file": "llvm-toolchain-21_1:21.1.8-14/debian/patches/revert-update-doc.diff",
+"url": "https://sources.debian.org/data/main/l/llvm-toolchain-21/1:21.1.8-14/debian/patches/revert-update-doc.diff",
+"len": 7492,
+"hits": []
+},
+{
+"file": "llvm-toolchain-22_1:22.1.8-3/debian/patches/revert-update-doc.diff",
+"url": "https://sources.debian.org/data/main/l/llvm-toolchain-22/1:22.1.8-3/debian/patches/revert-update-doc.diff",
+"len": 7492,
+"hits": []
+},
+{
+"file": "llvm-toolchain-23_1:23.1.5-2/debian/patches/revert-update-doc.diff",
+"url": "https://sources.debian.org/data/main/l/llvm-toolchain-23/1:23.1.5-2/debian/patches/revert-update-doc.diff",
+"len": 7602,
+"hits": []
+},
+{
+"file": "lookatme_2.5.4-3/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/l/lookatme/2.5.4-3/debian/patches/version.patch",
+"len": 1570,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version=\"{{VERSION}}\",",
+"+    version=\"2.5.4\","
+]
+]
+]
+},
+{
+"file": "luajit_2.1.0+openresty20251030-1/debian/patches/0003_support_riscv64.patch",
+"url": "https://sources.debian.org/data/main/l/luajit/2.1.0+openresty20251030-1/debian/patches/0003_support_riscv64.patch",
+"len": 333784,
+"hits": []
+},
+{
+"file": "luajit_2.1.0+openresty20251030-1/debian/patches/0004_support_loong64.patch",
+"url": "https://sources.debian.org/data/main/l/luajit/2.1.0+openresty20251030-1/debian/patches/0004_support_loong64.patch",
+"len": 315739,
+"hits": []
+},
+{
+"file": "lucene-solr_3.6.2+dfsg-28/debian/patches/web.xml.patch",
+"url": "https://sources.debian.org/data/main/l/lucene-solr/3.6.2+dfsg-28/debian/patches/web.xml.patch",
+"len": 1196,
+"hits": []
+},
+{
+"file": "m2l-pyqt_1.9-1/debian/patches/mw2latex.svg.patch",
+"url": "https://sources.debian.org/data/main/m/m2l-pyqt/1.9-1/debian/patches/mw2latex.svg.patch",
+"len": 14316,
+"hits": []
+},
+{
+"file": "manila_1:23.0.0-4/debian/patches/CVE-2026-71195_Fix_policy_control_for_public_shares.patch",
+"url": "https://sources.debian.org/data/main/m/manila/1:23.0.0-4/debian/patches/CVE-2026-71195_Fix_policy_control_for_public_shares.patch",
+"len": 37096,
+"hits": []
+},
+{
+"file": "mate-power-manager_1.26.1-1.1/debian/patches/0001_add-gaming-input-devices.patch",
+"url": "https://sources.debian.org/data/main/m/mate-power-manager/1.26.1-1.1/debian/patches/0001_add-gaming-input-devices.patch",
+"len": 174182,
+"hits": []
+},
+{
+"file": "mauve-aligner_2.4.0+4736-6/debian/patches/build_xml.patch",
+"url": "https://sources.debian.org/data/main/m/mauve-aligner/2.4.0+4736-6/debian/patches/build_xml.patch",
+"len": 10974,
+"hits": []
+},
+{
+"file": "mcl_1:22-282+ds-7/debian/patches/OCamlSupport.patch",
+"url": "https://sources.debian.org/data/main/m/mcl/1:22-282+ds-7/debian/patches/OCamlSupport.patch",
+"len": 203184,
+"hits": []
+},
+{
+"file": "md2term_0.0.7-2/debian/patches/01-change-strings-to-en.patch",
+"url": "https://sources.debian.org/data/main/m/md2term/0.0.7-2/debian/patches/01-change-strings-to-en.patch",
+"len": 4378,
+"hits": []
+},
+{
+"file": "mlpcap_0.9-22/debian/patches/03_correct_META.diff",
+"url": "https://sources.debian.org/data/main/m/mlpcap/0.9-22/debian/patches/03_correct_META.diff",
+"len": 496,
+"hits": []
+},
+{
+"file": "mozc_3.33.6133+ds1-0.2/debian/patches/0002-fcitx-artwork.patch",
+"url": "https://sources.debian.org/data/main/m/mozc/3.33.6133+ds1-0.2/debian/patches/0002-fcitx-artwork.patch",
+"len": 107151,
+"hits": []
+},
+{
+"file": "nanopub_0.2.0+ds-1.1/debian/patches/2003_no_windows.patch",
+"url": "https://sources.debian.org/data/main/n/nanopub/0.2.0+ds-1.1/debian/patches/2003_no_windows.patch",
+"len": 924,
+"hits": [
+[
+"b/lib/Cargo.toml",
+[
+"-version = \"0.12\"",
+"-version = \"0.12\""
+]
+]
+]
+},
+{
+"file": "newsboat_2.44-1/debian/patches/05-relax-deps.patch",
+"url": "https://sources.debian.org/data/main/n/newsboat/2.44-1/debian/patches/05-relax-deps.patch",
+"len": 1166,
+"hits": [
+[
+"b/rust/libnewsboat/Cargo.toml",
+[
+"-version = \"0.4.88\"",
+"+version = \"0.4.89\""
+]
+]
+]
+},
+{
+"file": "novnc_1:1.6.0-3/debian/patches/python-disutils.patch",
+"url": "https://sources.debian.org/data/main/n/novnc/1:1.6.0-3/debian/patches/python-disutils.patch",
+"len": 662,
+"hits": [
+[
+"b/setup.py",
+[
+"+      version='1.0.0',"
+]
+]
+]
+},
+{
+"file": "obfuscate_0.0.10-15/debian/patches/Update-dependencies.patch",
+"url": "https://sources.debian.org/data/main/o/obfuscate/0.0.10-15/debian/patches/Update-dependencies.patch",
+"len": 29680,
+"hits": []
+},
+{
+"file": "ocaml-inifiles_1.2-7/debian/patches/0001-Oasisify.patch",
+"url": "https://sources.debian.org/data/main/o/ocaml-inifiles/1.2-7/debian/patches/0001-Oasisify.patch",
+"len": 1647,
+"hits": []
+},
+{
+"file": "ocaml-inifiles_1.2-7/debian/patches/0004-Run-oasis-setup.patch",
+"url": "https://sources.debian.org/data/main/o/ocaml-inifiles/1.2-7/debian/patches/0004-Run-oasis-setup.patch",
+"len": 194518,
+"hits": []
+},
+{
+"file": "ocaml-usb_1.3.1-7/debian/patches/0004-Run-oasis-setup.patch",
+"url": "https://sources.debian.org/data/main/o/ocaml-usb/1.3.1-7/debian/patches/0004-Run-oasis-setup.patch",
+"len": 229565,
+"hits": []
+},
+{
+"file": "ocamlmod_0.0.9-5/debian/patches/0001-Run-oasis-setup.patch",
+"url": "https://sources.debian.org/data/main/o/ocamlmod/0.0.9-5/debian/patches/0001-Run-oasis-setup.patch",
+"len": 240500,
+"hits": []
+},
+{
+"file": "optgeo_3.03-2/debian/patches/60-fichiersdivers.patch",
+"url": "https://sources.debian.org/data/main/o/optgeo/3.03-2/debian/patches/60-fichiersdivers.patch",
+"len": 13039,
+"hits": []
+},
+{
+"file": "oxygencursors_0.0.2012-06-kde4.8-8/debian/patches/Add-no-drop-and-vertical-text-svg-images.patch",
+"url": "https://sources.debian.org/data/main/o/oxygencursors/0.0.2012-06-kde4.8-8/debian/patches/Add-no-drop-and-vertical-text-svg-images.patch",
+"len": 38458,
+"hits": []
+},
+{
+"file": "panoramisk_1.4-2/debian/patches/0001-hardcode-version-in-docs-since-package-not-yet-insta.patch",
+"url": "https://sources.debian.org/data/main/p/panoramisk/1.4-2/debian/patches/0001-hardcode-version-in-docs-since-package-not-yet-insta.patch",
+"len": 555,
+"hits": []
+},
+{
+"file": "papers_49.8-2/debian/patches/gtk4-0.11.patch",
+"url": "https://sources.debian.org/data/main/p/papers/49.8-2/debian/patches/gtk4-0.11.patch",
+"len": 1991,
+"hits": [
+[
+"b/shell/Cargo.toml",
+[
+"-version = \"0.4\"",
+"+version = \"0.6\"",
+"-version = \"0.8\"",
+"+version = \"0.9\""
+]
+]
+]
+},
+{
+"file": "pd-lib-builder_0.7.0-1/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/p/pd-lib-builder/0.7.0-1/debian/patches/version.patch",
+"len": 791,
+"hits": []
+},
+{
+"file": "phat_1.7-2/debian/patches/0001-Correct-version-number.patch",
+"url": "https://sources.debian.org/data/main/p/phat/1.7-2/debian/patches/0001-Correct-version-number.patch",
+"len": 518,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version='1.6.0.post2',",
+"+    version='1.7',"
+]
+]
+]
+},
+{
+"file": "phosh-session-services_0.3.0-1/debian/patches/cargo-Pin-dependencies-to-versions-in-available-in-Debian.patch",
+"url": "https://sources.debian.org/data/main/p/phosh-session-services/0.3.0-1/debian/patches/cargo-Pin-dependencies-to-versions-in-available-in-Debian.patch",
+"len": 1703,
+"hits": [
+[
+"b/phosh-syncbus/Cargo.toml",
+[
+"-version = \"0.39\"",
+"+version = \"0.38\""
+]
+]
+]
+},
+{
+"file": "picocli_4.6.2-2/debian/patches/0001-Adjust-build-to-work-without-asciidoctor.patch",
+"url": "https://sources.debian.org/data/main/p/picocli/4.6.2-2/debian/patches/0001-Adjust-build-to-work-without-asciidoctor.patch",
+"len": 13441,
+"hits": []
+},
+{
+"file": "pushpin_1.41.0-7/debian/patches/debian-changes",
+"url": "https://sources.debian.org/data/main/p/pushpin/1.41.0-7/debian/patches/debian-changes",
+"len": 15744,
+"hits": [
+[
+"pushpin-1.41.0/Cargo.toml",
+[
+"-version = \"1.41.0-dev\"",
+"+version = \"1.41.0\""
+]
+]
+]
+},
+{
+"file": "px_3.6.12-2.1/debian/patches/000-avoid-version-gen.patch",
+"url": "https://sources.debian.org/data/main/p/px/3.6.12-2.1/debian/patches/000-avoid-version-gen.patch",
+"len": 4005,
+"hits": [
+[
+"b/setup.py",
+[
+"-        version=version_for_setuptools,",
+"+        version=\"3.6.12\","
+]
+]
+]
+},
+{
+"file": "pydocstyle_6.3.0-3/debian/patches/Fix-version-number.patch",
+"url": "https://sources.debian.org/data/main/p/pydocstyle/6.3.0-3/debian/patches/Fix-version-number.patch",
+"len": 673,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"0.0.0-dev\"",
+"+version = \"6.3.0\""
+]
+]
+]
+},
+{
+"file": "pyjdata_0.4.1-1/debian/patches/bump-version-to-0.3.6.patch",
+"url": "https://sources.debian.org/data/main/p/pyjdata/0.4.1-1/debian/patches/bump-version-to-0.3.6.patch",
+"len": 690,
+"hits": [
+[
+"b/setup.py",
+[
+"-  version = '0.4.0',",
+"+  version = '0.4.1',"
+]
+]
+]
+},
+{
+"file": "pysequoia_0.1.34-4/debian/patches/relax-pyo3.patch",
+"url": "https://sources.debian.org/data/main/p/pysequoia/0.1.34-4/debian/patches/relax-pyo3.patch",
+"len": 646,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.28\"",
+"+version = \">=0.28,<0.30\""
+]
+]
+]
+},
+{
+"file": "python-adafruit-circuitpython-typing_1.12.3-1/debian/patches/use-scm-version.patch",
+"url": "https://sources.debian.org/data/main/p/python-adafruit-circuitpython-typing/1.12.3-1/debian/patches/use-scm-version.patch",
+"len": 838,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"0.0.0+auto.0\""
+]
+]
+]
+},
+{
+"file": "python-ajsonrpc_1.2.0-2/debian/patches/0001-add-version-and-project-name-for-sphinx-build.patch",
+"url": "https://sources.debian.org/data/main/p/python-ajsonrpc/1.2.0-2/debian/patches/0001-add-version-and-project-name-for-sphinx-build.patch",
+"len": 615,
+"hits": []
+},
+{
+"file": "python-alpha-vantage_3.0.0-1/debian/patches/dgit-changes",
+"url": "https://sources.debian.org/data/main/p/python-alpha-vantage/3.0.0-1/debian/patches/dgit-changes",
+"len": 15158,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version='2.3.1',",
+"+    version='3.0.0',"
+]
+]
+]
+},
+{
+"file": "python-apricot-select_0.6.1-1/debian/patches/0004-bump-python-version-in-CI-46.patch",
+"url": "https://sources.debian.org/data/main/p/python-apricot-select/0.6.1-1/debian/patches/0004-bump-python-version-in-CI-46.patch",
+"len": 12880,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version='0.6.1',",
+"+    version=\"0.6.1\","
+]
+]
+]
+},
+{
+"file": "python-backcall_0.2.0-5/debian/patches/flit_4.patch",
+"url": "https://sources.debian.org/data/main/p/python-backcall/0.2.0-5/debian/patches/flit_4.patch",
+"len": 611,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"0.2.0\""
+]
+]
+]
+},
+{
+"file": "python-batinfo_2.0-1/debian/patches/dgit-changes",
+"url": "https://sources.debian.org/data/main/p/python-batinfo/2.0-1/debian/patches/dgit-changes",
+"len": 23997,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version='0.2',",
+"+    version='0.4.2',"
+]
+]
+]
+},
+{
+"file": "python-bsddb3_6.2.9-5/debian/patches/add-docs-makefile.diff",
+"url": "https://sources.debian.org/data/main/p/python-bsddb3/6.2.9-5/debian/patches/add-docs-makefile.diff",
+"len": 10642,
+"hits": []
+},
+{
+"file": "python-buienradar_1.0.6-3/debian/patches/pkg_resources.patch",
+"url": "https://sources.debian.org/data/main/p/python-buienradar/1.0.6-3/debian/patches/pkg_resources.patch",
+"len": 500,
+"hits": []
+},
+{
+"file": "python-choreographer_1.4.0-1/debian/patches/pyproject-add-version.diff",
+"url": "https://sources.debian.org/data/main/p/python-choreographer/1.4.0-1/debian/patches/pyproject-add-version.diff",
+"len": 2463,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"1.4.0\""
+]
+]
+]
+},
+{
+"file": "python-cross-web_0.7.0-2/debian/patches/pyproject.toml-Correct-the-version-number.patch",
+"url": "https://sources.debian.org/data/main/p/python-cross-web/0.7.0-2/debian/patches/pyproject.toml-Correct-the-version-number.patch",
+"len": 614,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"0.6.0\"",
+"+version = \"0.7.0\""
+]
+]
+]
+},
+{
+"file": "python-deepmerge_0.0.5-3/debian/patches/0001-Remove-vcver-dependency-and-hardcode-version.patch",
+"url": "https://sources.debian.org/data/main/p/python-deepmerge/0.0.5-3/debian/patches/0001-Remove-vcver-dependency-and-hardcode-version.patch",
+"len": 670,
+"hits": [
+[
+"b/setup.py",
+[
+"+      version='0.0.5',"
+]
+]
+]
+},
+{
+"file": "python-ecs-logging_2.3.0-3/debian/patches/flit_4.patch",
+"url": "https://sources.debian.org/data/main/p/python-ecs-logging/2.3.0-3/debian/patches/flit_4.patch",
+"len": 1358,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"2.3.0\""
+]
+]
+]
+},
+{
+"file": "python-epimodels_0.4.0-5/debian/patches/ignore_pyscaffold.patch",
+"url": "https://sources.debian.org/data/main/p/python-epimodels/0.4.0-5/debian/patches/ignore_pyscaffold.patch",
+"len": 1033,
+"hits": [
+[
+"python-epimodels/setup.cfg",
+[
+"-version = 4.0"
+]
+]
+]
+},
+{
+"file": "python-gnuplot_1.8-9/debian/patches/00-remove-version-import.patch",
+"url": "https://sources.debian.org/data/main/p/python-gnuplot/1.8-9/debian/patches/00-remove-version-import.patch",
+"len": 754,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version=__version__,",
+"+    version='1.8',"
+]
+]
+]
+},
+{
+"file": "python-hashids_1.3.1-6/debian/patches/flit_4.patch",
+"url": "https://sources.debian.org/data/main/p/python-hashids/1.3.1-6/debian/patches/flit_4.patch",
+"len": 760,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"1.3.1\""
+]
+]
+]
+},
+{
+"file": "python-httpsig_1.3.0-3.1/debian/patches/2000-known-version.patch",
+"url": "https://sources.debian.org/data/main/p/python-httpsig/1.3.0-3.1/debian/patches/2000-known-version.patch",
+"len": 1079,
+"hits": [
+[
+"python-httpsig/setup.py",
+[
+"+    version='1.3.0',"
+]
+]
+]
+},
+{
+"file": "python-imgviz_1.7.6+ds-3/debian/patches/fix-hatch-vcs.patch",
+"url": "https://sources.debian.org/data/main/p/python-imgviz/1.7.6+ds-3/debian/patches/fix-hatch-vcs.patch",
+"len": 766,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"2.0.1\""
+]
+]
+]
+},
+{
+"file": "python-logistro_2.0.1+dfsg1-3/debian/patches/pyproject-add-version.diff",
+"url": "https://sources.debian.org/data/main/p/python-logistro/2.0.1+dfsg1-3/debian/patches/pyproject-add-version.diff",
+"len": 2067,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"2.0.1\""
+]
+]
+]
+},
+{
+"file": "python-magic_2:0.4.27-6/debian/patches/cherry-picked/0.4.27-40-g5a89644.add-support-for-python-3-13.patch",
+"url": "https://sources.debian.org/data/main/p/python-magic/2:0.4.27-6/debian/patches/cherry-picked/0.4.27-40-g5a89644.add-support-for-python-3-13.patch",
+"len": 4093,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version='0.4.28',",
+"+    version=\"0.4.28\","
+]
+]
+]
+},
+{
+"file": "python-maison_2.0.2-3/debian/patches/0002-remove-toml.patch",
+"url": "https://sources.debian.org/data/main/p/python-maison/2.0.2-3/debian/patches/0002-remove-toml.patch",
+"len": 7508,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"2.0.2\"",
+"+version = \"2.0.0\""
+]
+]
+]
+},
+{
+"file": "python-mcp_2.3.0-1/debian/patches/static_version_in_pyproject.toml",
+"url": "https://sources.debian.org/data/main/p/python-mcp/2.3.0-1/debian/patches/static_version_in_pyproject.toml",
+"len": 1971,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"2.3.0\""
+]
+]
+]
+},
+{
+"file": "python-moreorless_0.4.0-2/debian/patches/0001-fix-setup.py-for-tagged-release.patch",
+"url": "https://sources.debian.org/data/main/p/python-moreorless/0.4.0-2/debian/patches/0001-fix-setup.py-for-tagged-release.patch",
+"len": 951,
+"hits": [
+[
+"b/setup.py",
+[
+"+      version='0.3.0',"
+]
+]
+]
+},
+{
+"file": "python-netifaces2_0.0.22-2/debian/patches/dgit-changes",
+"url": "https://sources.debian.org/data/main/p/python-netifaces2/0.0.22-2/debian/patches/dgit-changes",
+"len": 2749,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.17.1\"",
+"+version = \">=0.28, <0.30\""
+]
+]
+]
+},
+{
+"file": "python-peakutils_1.3.4+ds-3/debian/patches/scipy_1.14_69f034b.patch",
+"url": "https://sources.debian.org/data/main/p/python-peakutils/1.3.4+ds-3/debian/patches/scipy_1.14_69f034b.patch",
+"len": 1772,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version='1.3.4',",
+"+    version='1.3.5',"
+]
+]
+]
+},
+{
+"file": "python-polars_2.1.0-1/debian/patches/relax-cargo-lock.patch",
+"url": "https://sources.debian.org/data/main/p/python-polars/2.1.0-1/debian/patches/relax-cargo-lock.patch",
+"len": 156623,
+"hits": []
+},
+{
+"file": "python-polsarpro_2026.6.0-1/debian/patches/0002-Fix-version-number.patch",
+"url": "https://sources.debian.org/data/main/p/python-polsarpro/2026.6.0-1/debian/patches/0002-Fix-version-number.patch",
+"len": 689,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"2026.1.2\"",
+"+version = \"2026.6.0\""
+]
+]
+]
+},
+{
+"file": "python-pykube-ng_22.9.0-3/debian/patches/fix-pyproject.toml.patch",
+"url": "https://sources.debian.org/data/main/p/python-pykube-ng/22.9.0-3/debian/patches/fix-pyproject.toml.patch",
+"len": 1632,
+"hits": [
+[
+"python-pykube-ng/pyproject.toml",
+[
+"+version = \"22.9.0\""
+]
+]
+]
+},
+{
+"file": "python-reportlab_5.1.0-1/debian/patches/reportlab-version.diff",
+"url": "https://sources.debian.org/data/main/p/python-reportlab/5.1.0-1/debian/patches/reportlab-version.diff",
+"len": 824,
+"hits": []
+},
+{
+"file": "python-repoze.who_3.1.0-2/debian/patches/modernize.patch",
+"url": "https://sources.debian.org/data/main/p/python-repoze.who/3.1.0-2/debian/patches/modernize.patch",
+"len": 18487,
+"hits": [
+[
+"python-repoze.who/pyproject.toml",
+[
+"+version = \"3.1.0\""
+]
+],
+[
+"python-repoze.who/setup.py",
+[
+"-      version='3.1.0',"
+]
+]
+]
+},
+{
+"file": "python-seqcluster_1.2.9+ds-9/debian/patches/remove_pkg_resources.patch",
+"url": "https://sources.debian.org/data/main/p/python-seqcluster/1.2.9+ds-9/debian/patches/remove_pkg_resources.patch",
+"len": 305,
+"hits": []
+},
+{
+"file": "python-slimmer_0.1.30-9/debian/patches/debian-changes-0.1.30-2",
+"url": "https://sources.debian.org/data/main/p/python-slimmer/0.1.30-9/debian/patches/debian-changes-0.1.30-2",
+"len": 3623,
+"hits": [
+[
+"b/setup.py",
+[
+"-version = slimmer.__version__ # hate repeating myself",
+"+version = '0.1.30'"
+]
+]
+]
+},
+{
+"file": "python-sphinx-contributors_0.3.0-1/debian/patches/002-flit-4.patch",
+"url": "https://sources.debian.org/data/main/p/python-sphinx-contributors/0.3.0-1/debian/patches/002-flit-4.patch",
+"len": 846,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"0.3.0\""
+]
+]
+]
+},
+{
+"file": "python-strenum_0.4.15-1/debian/patches/remove-versioneer.diff",
+"url": "https://sources.debian.org/data/main/p/python-strenum/0.4.15-1/debian/patches/remove-versioneer.diff",
+"len": 71374,
+"hits": [
+[
+"python-strenum-0.4.15/setup.py",
+[
+"-    version=versioneer.get_version(),",
+"+    version=\"0.4.15\","
+]
+]
+]
+},
+{
+"file": "python-timeago_1.0.16+git20220818.46d23e7-2/debian/patches/setuptools",
+"url": "https://sources.debian.org/data/main/p/python-timeago/1.0.16+git20220818.46d23e7-2/debian/patches/setuptools",
+"len": 1502,
+"hits": [
+[
+"python-timeago-1.0.16/setup.cfg",
+[
+"+version = 1.0.16"
+]
+]
+]
+},
+{
+"file": "qtestsign_0.0~git20250813.f3df53a-2/debian/patches/0001-Add-pyproject.toml.patch",
+"url": "https://sources.debian.org/data/main/q/qtestsign/0.0~git20250813.f3df53a-2/debian/patches/0001-Add-pyproject.toml.patch",
+"len": 2120,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"0.0\""
+]
+]
+]
+},
+{
+"file": "rabbitmqadmin-ng_2.29.0-2/debian/patches/fix-upstream-cargo.toml.patch",
+"url": "https://sources.debian.org/data/main/r/rabbitmqadmin-ng/2.29.0-2/debian/patches/fix-upstream-cargo.toml.patch",
+"len": 2111,
+"hits": []
+},
+{
+"file": "rayforge_1.13.2-1/debian/patches/disable-setuptools-git-versioning.patch",
+"url": "https://sources.debian.org/data/main/r/rayforge/1.13.2-1/debian/patches/disable-setuptools-git-versioning.patch",
+"len": 775,
+"hits": [
+[
+"rayforge/pyproject.toml",
+[
+"+version = \"1.13.2\""
+]
+]
+]
+},
+{
+"file": "re2j_1.7+dfsg-1/debian/patches/gradle.patch",
+"url": "https://sources.debian.org/data/main/r/re2j/1.7+dfsg-1/debian/patches/gradle.patch",
+"len": 5816,
+"hits": []
+},
+{
+"file": "rpds-py_0.30.0-4/debian/patches/relax-pyo3.patch",
+"url": "https://sources.debian.org/data/main/r/rpds-py/0.30.0-4/debian/patches/relax-pyo3.patch",
+"len": 708,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.27.2\"",
+"+version = \">=0.27.2,<0.30\""
+]
+]
+]
+},
+{
+"file": "rsass_0.29.2-1/debian/patches/1001_version.patch",
+"url": "https://sources.debian.org/data/main/r/rsass/0.29.2-1/debian/patches/1001_version.patch",
+"len": 829,
+"hits": [
+[
+"b/rsass-cli/Cargo.toml",
+[
+"-version = \"0.29.1-PRE\"",
+"+version = \"0.29.2\""
+]
+],
+[
+"b/rsass-macros/Cargo.toml",
+[
+"-version = \"0.29.1-PRE\"",
+"+version = \"0.29.2\""
+]
+]
+]
+},
+{
+"file": "ruby-css-inline_0.22.0-1/debian/patches/relax-css-inline.patch",
+"url": "https://sources.debian.org/data/main/r/ruby-css-inline/0.22.0-1/debian/patches/relax-css-inline.patch",
+"len": 567,
+"hits": [
+[
+"b/ext/css_inline/Cargo.toml",
+[
+"-version = \"0.21.1\"",
+"+version = \"0.22\""
+]
+]
+]
+},
+{
+"file": "rubygems_4.0.24-1/debian/patches/0003-no-rely-on-lib-for-version-in-gemspec.patch",
+"url": "https://sources.debian.org/data/main/r/rubygems/4.0.24-1/debian/patches/0003-no-rely-on-lib-for-version-in-gemspec.patch",
+"len": 486,
+"hits": []
+},
+{
+"file": "ruff_0.16.10+ds-2/debian/patches/set-ty-version",
+"url": "https://sources.debian.org/data/main/r/ruff/0.16.10+ds-2/debian/patches/set-ty-version",
+"len": 1376,
+"hits": [
+[
+"ruff/crates/ty/Cargo.toml",
+[
+"-version = \"0.0.0\"",
+"+version = \"0.0.85\""
+]
+]
+]
+},
+{
+"file": "rustc_1.97.1+dfsg1-1/debian/patches/prune/d-0010-cargo-remove-vendored-c-crates.patch",
+"url": "https://sources.debian.org/data/main/r/rustc/1.97.1+dfsg1-1/debian/patches/prune/d-0010-cargo-remove-vendored-c-crates.patch",
+"len": 3902,
+"hits": [
+[
+"b/vendor/openssl-sys-0.9.114/Cargo.toml",
+[
+"-version = \"0.13\"",
+"-version = \"0.39\"",
+"-version = \"0.1.0\"",
+"-version = \"300.2.0\""
+]
+]
+]
+},
+{
+"file": "rustup_1.27.1-8/debian/patches/0001-cargo-remove-windows-dependencies.patch",
+"url": "https://sources.debian.org/data/main/r/rustup/1.27.1-8/debian/patches/0001-cargo-remove-windows-dependencies.patch",
+"len": 1391,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.3\"",
+"-version = \"0.52.0\""
+]
+]
+]
+},
+{
+"file": "rx-java_3.1.5-1/debian/patches/fix-gradle-build.patch",
+"url": "https://sources.debian.org/data/main/r/rx-java/3.1.5-1/debian/patches/fix-gradle-build.patch",
+"len": 5020,
+"hits": []
+},
+{
+"file": "sccache_0.17.0+ds-4/debian/patches/2001_no_windows.patch",
+"url": "https://sources.debian.org/data/main/s/sccache/0.17.0+ds-4/debian/patches/2001_no_windows.patch",
+"len": 571,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.52\""
+]
+]
+]
+},
+{
+"file": "sccache_0.17.0+ds-4/debian/patches/2003_avoid_rouille.patch",
+"url": "https://sources.debian.org/data/main/s/sccache/0.17.0+ds-4/debian/patches/2003_avoid_rouille.patch",
+"len": 1835,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"0.1.15\""
+]
+]
+]
+},
+{
+"file": "scrypt_1.3.3-1/debian/patches/debian-changes",
+"url": "https://sources.debian.org/data/main/s/scrypt/1.3.3-1/debian/patches/debian-changes",
+"len": 23479,
+"hits": []
+},
+{
+"file": "sol2_3.5.0-3.1/debian/patches/1000-fix-cmake-version.patch",
+"url": "https://sources.debian.org/data/main/s/sol2/3.5.0-3.1/debian/patches/1000-fix-cmake-version.patch",
+"len": 1192,
+"hits": []
+},
+{
+"file": "sorl-thumbnail_13.1.0-1/debian/patches/pkg_resources.patch",
+"url": "https://sources.debian.org/data/main/s/sorl-thumbnail/13.1.0-1/debian/patches/pkg_resources.patch",
+"len": 495,
+"hits": []
+},
+{
+"file": "soundgrain_6.0.1-5/debian/patches/fix-install.patch",
+"url": "https://sources.debian.org/data/main/s/soundgrain/6.0.1-5/debian/patches/fix-install.patch",
+"len": 1892,
+"hits": [
+[
+"b/setup.py",
+[
+"+    version=\"6.0.1\","
+]
+]
+]
+},
+{
+"file": "speaklater_1.3-7/debian/patches/0001-add-tox-configuration-bumped-version-in-setup.py-add.patch",
+"url": "https://sources.debian.org/data/main/s/speaklater/1.3-7/debian/patches/0001-add-tox-configuration-bumped-version-in-setup.py-add.patch",
+"len": 1433,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version='1.3',",
+"+    version='1.4',"
+]
+]
+]
+},
+{
+"file": "spherepack_3.3~a1-11/debian/patches/pyproject-and-meson.patch",
+"url": "https://sources.debian.org/data/main/s/spherepack/3.3~a1-11/debian/patches/pyproject-and-meson.patch",
+"len": 22048,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"3.3a1\""
+]
+]
+]
+},
+{
+"file": "sphinx-collapse_0.1.4-2/debian/patches/flit_4.patch",
+"url": "https://sources.debian.org/data/main/s/sphinx-collapse/0.1.4-2/debian/patches/flit_4.patch",
+"len": 707,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"0.1.4\""
+]
+]
+]
+},
+{
+"file": "sphinx-prompt_1.10.2-1/debian/patches/pyproject.toml-Adjust-version-number.patch",
+"url": "https://sources.debian.org/data/main/s/sphinx-prompt/1.10.2-1/debian/patches/pyproject.toml-Adjust-version-number.patch",
+"len": 717,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"0.0.0\"",
+"+version = \"1.10.2\""
+]
+]
+]
+},
+{
+"file": "sphinxcontrib-github-alt_1.2-3/debian/patches/flit_4.patch",
+"url": "https://sources.debian.org/data/main/s/sphinxcontrib-github-alt/1.2-3/debian/patches/flit_4.patch",
+"len": 701,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"+version = \"1.2\""
+]
+]
+]
+},
+{
+"file": "sphinxcontrib-httpdomain_2.0.0-2/debian/patches/patch-build-system.patch",
+"url": "https://sources.debian.org/data/main/s/sphinxcontrib-httpdomain/2.0.0-2/debian/patches/patch-build-system.patch",
+"len": 162144,
+"hits": []
+},
+{
+"file": "sphinxcontrib-spelling_8.0.2-1/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/s/sphinxcontrib-spelling/8.0.2-1/debian/patches/version.patch",
+"len": 409,
+"hits": []
+},
+{
+"file": "starship_1.27.0-1/debian/patches/relax-deps.patch",
+"url": "https://sources.debian.org/data/main/s/starship/1.27.0-1/debian/patches/relax-deps.patch",
+"len": 1423,
+"hits": [
+[
+"b/Cargo.toml",
+[
+"-version = \"1.2.3\"",
+"+version = \"1.2.2\""
+]
+]
+]
+},
+{
+"file": "streamrip_2.2.0-1/debian/patches/0001-Remove-deezer.patch",
+"url": "https://sources.debian.org/data/main/s/streamrip/2.2.0-1/debian/patches/0001-Remove-deezer.patch",
+"len": 22005,
+"hits": []
+},
+{
+"file": "syncthing-gtk_0.9.4.4+ds+git20221205+12a9702d29ab-6/debian/patches/0001-Version-PEP-440.patch",
+"url": "https://sources.debian.org/data/main/s/syncthing-gtk/0.9.4.4+ds+git20221205+12a9702d29ab-6/debian/patches/0001-Version-PEP-440.patch",
+"len": 1031,
+"hits": [
+[
+"b/setup.py",
+[
+"-        version=get_version(),",
+"+        version='0.9.4.4.post20221205',"
+]
+]
+]
+},
+{
+"file": "thin-provisioning-tools_1.1.0-5.1/debian/patches/debian-changes",
+"url": "https://sources.debian.org/data/main/t/thin-provisioning-tools/1.1.0-5.1/debian/patches/debian-changes",
+"len": 35423,
+"hits": []
+},
+{
+"file": "toil_9.5.0-1/debian/patches/setting_version.patch",
+"url": "https://sources.debian.org/data/main/t/toil/9.5.0-1/debian/patches/setting_version.patch",
+"len": 1197,
+"hits": []
+},
+{
+"file": "tree-sitter-query_0.8.0-3/debian/patches/0002-Fix-doctest-failure-for-rust-bindings.patch",
+"url": "https://sources.debian.org/data/main/t/tree-sitter-query/0.8.0-3/debian/patches/0002-Fix-doctest-failure-for-rust-bindings.patch",
+"len": 5323,
+"hits": []
+},
+{
+"file": "tree-sitter_0.26.11-1/debian/patches/Remove-wasm-feature.patch",
+"url": "https://sources.debian.org/data/main/t/tree-sitter/0.26.11-1/debian/patches/Remove-wasm-feature.patch",
+"len": 6871,
+"hits": [
+[
+"b/lib/Cargo.toml",
+[
+"-version = \"36.0.12\""
+]
+]
+]
+},
+{
+"file": "treeview_1.2.0+dfsg-3/debian/patches/classpath.patch",
+"url": "https://sources.debian.org/data/main/t/treeview/1.2.0+dfsg-3/debian/patches/classpath.patch",
+"len": 3072,
+"hits": []
+},
+{
+"file": "twms_0.07z+git20201202+bb7c3f8-2.1/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/t/twms/0.07z+git20201202+bb7c3f8-2.1/debian/patches/version.patch",
+"len": 480,
+"hits": [
+[
+"b/setup.py",
+[
+"-    version = \"0.06y\",",
+"+    version = \"0.07\","
+]
+]
+]
+},
+{
+"file": "ubertooth_2020.12.R1-2/debian/patches/0002-tweak.patch",
+"url": "https://sources.debian.org/data/main/u/ubertooth/2020.12.R1-2/debian/patches/0002-tweak.patch",
+"len": 845,
+"hits": [
+[
+"b/host/python/specan_ui/setup.py",
+[
+"-    version     = '',",
+"+    version     = '0',"
+]
+]
+]
+},
+{
+"file": "virtualenvwrapper_6.1.1-2/debian/patches/version.patch",
+"url": "https://sources.debian.org/data/main/v/virtualenvwrapper/6.1.1-2/debian/patches/version.patch",
+"len": 490,
+"hits": []
+},
+{
+"file": "vite_1.4-6/debian/patches/use-svg-icon.patch",
+"url": "https://sources.debian.org/data/main/v/vite/1.4-6/debian/patches/use-svg-icon.patch",
+"len": 5464,
+"hits": []
+},
+{
+"file": "weii_0.1.2-5/debian/patches/1000-poetry-for-test.patch",
+"url": "https://sources.debian.org/data/main/w/weii/0.1.2-5/debian/patches/1000-poetry-for-test.patch",
+"len": 1982,
+"hits": []
+},
+{
+"file": "weii_0.1.2-5/debian/patches/1020-bookworm.patch",
+"url": "https://sources.debian.org/data/main/w/weii/0.1.2-5/debian/patches/1020-bookworm.patch",
+"len": 784,
+"hits": [
+[
+"weii-salsa/pyproject.toml",
+[
+"+version = \"0.1.2\""
+]
+]
+]
+},
+{
+"file": "wsdd_2:0.8-5/debian/patches/wsdd-0.8-setup-py.patch",
+"url": "https://sources.debian.org/data/main/w/wsdd/2:0.8-5/debian/patches/wsdd-0.8-setup-py.patch",
+"len": 1532,
+"hits": [
+[
+"wsdd/setup.py",
+[
+"+    version='0.8',"
+]
+]
+]
+},
+{
+"file": "xdrawchem_1:1.11.1-3/debian/patches/desktop.patch",
+"url": "https://sources.debian.org/data/main/x/xdrawchem/1:1.11.1-3/debian/patches/desktop.patch",
+"len": 12135,
+"hits": []
+},
+{
+"file": "yarf_3.24.22+ds-2/debian/patches/0001-Set-project-version.patch",
+"url": "https://sources.debian.org/data/main/y/yarf/3.24.22+ds-2/debian/patches/0001-Set-project-version.patch",
+"len": 1737,
+"hits": [
+[
+"b/pyproject.toml",
+[
+"-version = \"0.0.0\"",
+"+version = \"3.24.22\""
+]
+]
+]
+}
+]

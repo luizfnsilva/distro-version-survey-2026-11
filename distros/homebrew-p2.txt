@@ -1,0 +1,6 @@
+Formula/t/theharvester.rb
+Formula/f/fdroidserver.rb
+Formula/o/otterdog.rb
+Formula/c/ctcache.rb
+Formula/c/charmcraft.rb
+Formula/p/pytr.rb

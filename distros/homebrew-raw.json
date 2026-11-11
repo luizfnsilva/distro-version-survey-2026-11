@@ -1,0 +1,41 @@
+[
+ {
+  "repo": "laramies/theHarvester",
+  "dist_version": "4.11.1",
+  "tag": "4.11.1",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "formula": "theharvester"
+ },
+ {
+  "repo": "matus-chochlik/ctcache",
+  "dist_version": "1.2.0",
+  "tag": "1.2.0",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "formula": "ctcache"
+ },
+ {
+  "repo": "canonical/charmcraft",
+  "dist_version": "4.5.0",
+  "tag": "4.5.0",
+  "file": "pyproject.toml",
+  "cls": "sem versao estatica",
+  "formula": "charmcraft"
+ },
+ {
+  "repo": "pytr-org/pytr",
+  "dist_version": "1.62.0",
+  "cls": "nao deu",
+  "formula": "pytr"
+ },
+ {
+  "repo": "eclipse-csi/otterdog",
+  "dist_version": "1.7.1",
+  "tag": "v1.7.1",
+  "file": "pyproject.toml",
+  "declared": "0.0.0",
+  "cls": "placeholder",
+  "formula": "otterdog"
+ }
+]
